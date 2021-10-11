@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Kavya
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning React, React Native
-- 💞️ I’m looking to collaborate on working with React
-- 📫 reach me sending a mail to kavyareddy.732@gmail.com
+- 🌱 I’m currently learning AWS, Docker, GraphQL
+- 💞️ I’m looking for a full time position as a Software Developer
+- 📫 Contact me at kavyareddy.732@gmail.com
 
 <!---
 KavyaReddy732/KavyaReddy732 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
