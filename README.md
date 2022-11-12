@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Kavya
-- 🌱 I’m currently learning AWS, Docker, GraphQL
-- 💞️ I’m looking for a full time position as a Software Developer
 - 📫 Contact me at kavyareddy.732@gmail.com
 
 <!---
